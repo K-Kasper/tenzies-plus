@@ -1,8 +1,8 @@
 # Tenzies Plus
 
-This is a Scrimba tutorial project Tenzies plus my extra features.
+This is a Scrimba tutorial project Tenzies, plus my extra features.
 
-Features made by me are:
+Features made by me so far are:
 
 - adding dots to the dice (previously numbers)
 - adding rolls stat
